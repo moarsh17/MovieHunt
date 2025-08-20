@@ -1,12 +1,24 @@
-# React + Vite
+# 🎬 MovieHunt  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieHunt is a React-based web application that allows users to **search for movies**, **fetch details from the TMDB API**, and **create a personalized list of favorite movies**.  
+The app is built using modern React concepts such as **React Hooks**, **Context API**, and **asynchronous JavaScript functions** for a smooth user experience.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+- ✅ Search for movies using the **TMDB API**  
+- ✅ View detailed movie information *(title, rating, description, poster)*  
+- ✅ Add movies to your **Favorites list**  
+- ✅ Persistent state management using **React Context**  
+- ✅ Built with **React Hooks** for dynamic UI updates  
+- 🔄 *I am currently adding more functionality to improve the app*  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack  
+
+- **Frontend:** React, React Hooks, Context API  
+- **API:** TMDB API  
+- **Styling:** CSS / Tailwind *(if used)*  
+- **Async Handling:** `async/await` for API calls  
