@@ -20,5 +20,5 @@ The app is built using modern React concepts such as **React Hooks**, **Context 
 
 - **Frontend:** React, React Hooks, Context API  
 - **API:** TMDB API  
-- **Styling:** CSS / Tailwind *(if used)*  
+- **Styling:** CSS / Tailwind
 - **Async Handling:** `async/await` for API calls  
